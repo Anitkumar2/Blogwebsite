@@ -1,0 +1,41 @@
+li a {
+  color: #4e3d53;
+  font-size: 15px;
+}
+
+a:hover {
+  color: #eb5e0b !important;
+}
+
+.navbar {
+  padding: 20px 0 20px 0;
+
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+.nav-item {
+  color: #4e3d53;
+  margin: 0 10px 0 10px;
+}
+
+.footer-padding {
+  padding-top: 60px;
+}
+
+.footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #726a95;
+}
+.footer p {
+	margin-top: 25px;
+	font-size: 25px;
+  color: #fff;
+}
